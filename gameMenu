@@ -12,20 +12,20 @@ while true do
 
 if (input == option2) then
 
-shell.run("tictactoe")
+shell.run("codOS/tictactoe")
 
 elseif (input == option3) then
 
-shell.run("bbtetris")
+shell.run("codOS/bbtetris")
 
 elseif (input == option4) then
 
-shell.run("snake")
+shell.run("codOS/snake")
 
 elseif (input == option5) then
 
 term.clear()
-shell.run(".menu")
+shell.run("codOS/menu")
 return
 
 else 
