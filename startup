@@ -12,7 +12,7 @@ if (input == pass) then
 
 textutils.slowPrint("c'mon in!")
 sleep(2)
-shell.run("menu")
+shell.run("codOS/menu")
 
 else
 
