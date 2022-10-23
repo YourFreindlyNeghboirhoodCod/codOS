@@ -8,3 +8,4 @@ note: things are very buggy and subject to change, this OS was made in a day, on
 INSTALLATION:
 you must use a github getter to install this OS, use pastebin get wPtGKMam github to get the github program!
 then once you have gotten it, just type github YourFreindlyNeghboirhoodCod codOS
+move downloads/codOS into the main folder, then move startup out of codOS into the main folder
