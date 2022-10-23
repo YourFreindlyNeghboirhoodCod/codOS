@@ -23,7 +23,7 @@ term.setTextColour(colours.orange)
 
 elseif input == option3 then
 
-shell.run(".gameMenu")
+shell.run("codOS/gameMenu")
 
 else
 
