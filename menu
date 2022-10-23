@@ -1,0 +1,36 @@
+term.setTextColour(colours.orange)
+term.clear()
+term.setCursorPos(1,1)
+
+textutils.slowPrint("what you wanna do? (command,programs,game_menu)")
+option1 = "command"
+option2 = "programs"
+option3 = "game_menu"
+input = read()
+
+while true do
+
+if (input == option1) then
+
+return
+
+elseif (input == option2) then
+
+textutils.slowPrint("list of programs:")
+term.setTextColour(colours.white)
+shell.run("programs")
+term.setTextColour(colours.orange)
+
+elseif input == option3 then
+
+shell.run(".gameMenu")
+
+else
+
+textutils.slowPrint("nigga, speak better")
+sleep(0.1)
+
+
+end
+input = read()
+end

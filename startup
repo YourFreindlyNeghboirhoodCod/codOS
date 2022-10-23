@@ -1,0 +1,26 @@
+--makes it to where you cant ctrl + t out of the program
+os.pullEvent = os.pullEventRaw
+
+term.clear()
+term.setCursorPos(1,1)
+
+pass = ("CodIsCool9410")
+textutils.slowPrint("password here motherfucker: ")
+input = read()
+
+if (input == pass) then
+
+textutils.slowPrint("oh shit u the owner of this pc")
+sleep(2)
+shell.run(".menu")
+
+else
+
+textutils.slowPrint("dont steal nigger, rebooting this fukin pc")
+sleep(2)
+
+os.reboot()
+end
+
+
+
