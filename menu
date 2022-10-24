@@ -12,6 +12,8 @@ while true do
 
 if (input == option1) then
 
+term.setCursorPos(1,1)
+term.clear()
 return
 
 elseif (input == option2) then
