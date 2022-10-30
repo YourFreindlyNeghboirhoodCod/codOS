@@ -19,7 +19,7 @@ local nOption = 1
 local function drawMenu()
     term.clear()
     term.setCursorPos(1,1)
-    term.write("-codOS-")
+    term.write("-codOS/menu.lua-")
     term.setCursorPos(1,2)
     print("you are on computer #".. os.getComputerID())
 
