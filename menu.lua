@@ -3,6 +3,8 @@
 --https://youtu.be/XPpMkDfzwB8
 os.pullEvent = os.pullEventRaw
 
+shell.setAlias("return","codOS/back.lua")
+
 local w,h = term.getSize()
 
 --its in the name, print centered
