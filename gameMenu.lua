@@ -72,8 +72,10 @@ term.clear()
 if nOption == 1 then
     shell.run("worm")
 elseif nOption == 2 then
+    term.setCursorPos(1,1)
     shell.run("redirection")
 elseif nOption == 3 then
+    term.setCursorPos(1,1)
     shell.run("adventure")
 elseif nOption == 4 then
     shell.run("codOS/menu")
