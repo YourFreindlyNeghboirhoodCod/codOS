@@ -1,4 +1,8 @@
-# codOS
+ _____       _ _____ _____ 
+|     |___ _| |     |   __|
+|   --| . | . |  |  |__   |
+|_____|___|___|_____|_____|
+                           
 my CC operating system
 these games were not made by me, there is credits in the code for each of them!
 this operating system will fit on a floppy disk.
