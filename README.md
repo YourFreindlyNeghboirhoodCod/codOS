@@ -10,3 +10,7 @@ INSTALLATION:
 you must use a github getter to install this OS, use pastebin get wPtGKMam github to get the github program!
 then once you have gotten it, just type github YourFreindlyNeghboirhoodCod codOS
 move downloads/codOS into the main folder, then move startup out of codOS into the main folder
+
+HOW TO CHANGE PASSWORD:
+password system has been reworked, thanks to my G named dj!
+check startup.lua for intructions.
