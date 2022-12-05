@@ -25,7 +25,8 @@ tbl = {
 "sub to DJ TRM on youtube",
 "dont make lemonade",
 "get mad!",
-"create aeronautics when?"
+"create aeronautics when?",
+"to dj for helping me, thank you"
 }
 
 print(tbl[math.random(26)])
